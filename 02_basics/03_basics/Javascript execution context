@@ -1,0 +1,8 @@
+First global execution context get made and stored in this
+Functional Execution context
+Eval Execution conte xt\
+
+
+
+Block of Code ->Global Execution (this)-> Memory Creation Phase->Execution Phase
+// for function , new environment variable+thread
